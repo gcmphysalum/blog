@@ -3,8 +3,7 @@ layout: default
 title: PG materials
 nav_order: 4
 ---
-
-# **Supplimentary Resources for a Postgraduate Student**
+# Supplimentary Resources for a Postgraduate Student
 {: .no_toc }
 
 ## Table of contents
@@ -76,8 +75,8 @@ Assignments - [**Access here**](https://nptel.ac.in/courses/115/104/115104043/#d
 ---
 ## **General Relativity**
 
-- Lectures on General Relativity by Prof. Leonard Susskind, Recorded on September 22, 2008 at Stanford University. 
- 
+- Lectures on General Relativity by Prof. Leonard Susskind, Recorded on September 22, 2008 at Stanford University.
+
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/view_play_list?p=6C8BDEEBA6BDC78D)
 
@@ -106,7 +105,7 @@ Assignments - [**Access here**](https://nptel.ac.in/courses/115/104/115104043/#d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Access here**](http://www.iucaa.ernet.in/~archives/TP/iser1.html)
 
-- Lectures on Advanced General Relativity by Prof. T. Padmanabhan, IUCAA. Lectures were given at Geneva, Switzerland. For User ID and Password send an email to library@iucaa.ernet.in or nagesh@iucaa.ernet.in. 
+- Lectures on Advanced General Relativity by Prof. T. Padmanabhan, IUCAA. Lectures were given at Geneva, Switzerland. For User ID and Password send an email to library@iucaa.ernet.in or nagesh@iucaa.ernet.in.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Access here**](http://www.iucaa.ernet.in/~archives/TP/geneva1.htm)
@@ -116,11 +115,11 @@ Assignments - [**Access here**](https://nptel.ac.in/courses/115/104/115104043/#d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C12034)
 
-- Lectures on Advanced General Relativity by Prof. Eric Poisson, PSI. 
+- Lectures on Advanced General Relativity by Prof. Eric Poisson, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [**Access here**](http://classroom.tv/course/877/Advanced_General_Relativity)
- 
+
 - Lectures on Advanced General Relativity by Prof. Rafael Sorkin, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,7 +130,7 @@ Assignments - [**Access here**](https://nptel.ac.in/courses/115/104/115104043/#d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C14003)
 
-- Lectures on General Relativity for Cosmology by Prof. Achim Kempf, PSI. 
+- Lectures on General Relativity for Cosmology by Prof. Achim Kempf, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C13036)
@@ -183,7 +182,7 @@ Lecture notes -[**Access here**](https://ocw.mit.edu/courses/physics/8-05-quantu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/assignments)
 
-- Advanced Quantum Mechanics lectures by Prof. Leonard Susskind, Stanford University. 
+- Advanced Quantum Mechanics lectures by Prof. Leonard Susskind, Stanford University.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLcC5RwLpGl6eyNvVfAixR18_nDmsX9rh-)
@@ -203,7 +202,7 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-05-quantum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849)
 
-- Lectures on Quantum Mechanics by Prof. Namik Kemal Pak, Middle East Technical University Department of Physics. Topics covered by him include systems of identical particles and second quantization, semi-classical and quantum theory of radiation, scattering theory, relativistic single-particle equations, Dirac equation and central potential problems. 
+- Lectures on Quantum Mechanics by Prof. Namik Kemal Pak, Middle East Technical University Department of Physics. Topics covered by him include systems of identical particles and second quantization, semi-classical and quantum theory of radiation, scattering theory, relativistic single-particle equations, Dirac equation and central potential problems.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLF5e5qMc7fOQCAD4-C1qMePr-I6lREkTW)
@@ -512,17 +511,17 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-851-effect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PL93B3DDC89C085C1C)
 
-- Lectures on Basic Concepts of Particle Physics given by Prof. Leonard Susskind, Stanford University. 
+- Lectures on Basic Concepts of Particle Physics given by Prof. Leonard Susskind, Stanford University.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PLF363FFF951EC0673)
 
-- Lectures given by Prof. Leonard Susskind on Particle Physics: Standard Model, Recorded on January 11, 2010 at Stanford University. 
+- Lectures given by Prof. Leonard Susskind on Particle Physics: Standard Model, Recorded on January 11, 2010 at Stanford University.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PL8BCB4981DD1A0108)
 
-- Lectures on introduction to Super- Symmetry by Prof. Alex Buchel, PSI. 
+- Lectures on introduction to Super- Symmetry by Prof. Alex Buchel, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C07019)
@@ -532,12 +531,12 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-851-effect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PL9CD3CD024A711369)
 
-- Lectures on Particle Physics 3: Super-Symmetry and Grand Unification by Prof. Leonard Susskind, Stanford University. 
+- Lectures on Particle Physics 3: Super-Symmetry and Grand Unification by Prof. Leonard Susskind, Stanford University.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PLpi18tMShZSBKLugjxRsN8U5MmILu1nBo)
 
-- A course on Super -Symmetry (SUSY) by Prof. Fernando Quevedo, University of Cambridge. 
+- A course on Super -Symmetry (SUSY) by Prof. Fernando Quevedo, University of Cambridge.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PLpi18tMShZSBKLugjxRsN8U5MmILu1nBo)
@@ -567,7 +566,7 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-851-effect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C09052)
 
-- Lectures on Explorations in Particle Theory by Prof. David Morrissey, PSI. 
+- Lectures on Explorations in Particle Theory by Prof. David Morrissey, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C13012)
@@ -577,7 +576,7 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-851-effect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C14002)
 
-- Lectures in Explorations in Particle Theory by Prof. Brian Shuve, PSI. 
+- Lectures in Explorations in Particle Theory by Prof. Brian Shuve, PSI.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Perimeter Institute Archives**](http://pirsa.org/C14012)
