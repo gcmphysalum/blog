@@ -20,6 +20,7 @@ These video lectures are so awesome that you can merely sit and listen to these 
 - [**For Precollege Students**](https://gcmphysalum.github.io/posts/precollge-materials)
 - [**For Undergraduates**](https://gcmphysalum.github.io/posts/ug-materials)
 - [**For Postgraduates**](https://gcmphysalum.github.io/posts/pg-materials)
+
 ---
 ### Text Books
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,6 +32,7 @@ We have listed a few text books - based on the undergraduate & postgraduate syll
 - [**List of Standard Text Books - based on BSc Syllabus**](https://gcmphysalum.github.io/posts/text-books/)
 - [**List of Standard Text Books - based on MSc Syllabus**](https://gcmphysalum.github.io/posts/text-books/)
 - [**List of Supplementary Text Books - by Research Area**](https://gcmphysalum.github.io/posts/text-books)
+
 ---
 ### Active Research Areas and Research Groups
 &nbsp;&nbsp;&nbsp;&nbsp;
