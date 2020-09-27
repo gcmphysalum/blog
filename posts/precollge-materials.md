@@ -786,92 +786,119 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/electrical-engineeri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Access here**](http://www.asti.ac.za/lectures.php)
 
-- Tons of courses in Physics from NPTEL](http://nptel.ac.in/courses.php?disciplineId=115)
-3. [Lectures in different topics of Physics, brought to you by Perimeter Institute of Theoretical Physics](http://classroom.tv/perimeterinstitute)
-4. Videos of the Lectures at the program on Topology and Field Theories, held at Center of Mathematics, University of Notre Dame
+- Tons of courses in Physics from NPTEL.
 
-[http://www3.nd.edu/~stolz/field\_theory\_videos.html](http://www3.nd.edu/~stolz/field_theory_videos.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://nptel.ac.in/courses.php?disciplineId=115)
 
-1. A series of lectures in Honour of the 90th Birthday of Freeman Dyson, organized by Institute of Advances Studies, Nanyang Technological University, Singapore
+- Lectures in different topics of Physics, brought to you by Perimeter Institute of Theoretical Physics.
 
-[https://www.youtube.com/playlist?list=PLWIjtByUJvctJSv4hzVeErhjdQyh9A450](https://www.youtube.com/playlist?list=PLWIjtByUJvctJSv4hzVeErhjdQyh9A450)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://classroom.tv/perimeterinstitute)
 
-1. Tons of Physics Courses by MIT OCW
+- Videos of the Lectures at the program on Topology and Field Theories, held at Center of Mathematics, University of Notre Dame.
 
-[http://ocw.mit.edu/courses/physics/](http://ocw.mit.edu/courses/physics/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://www3.nd.edu/~stolz/field_theory_videos.html)
 
-1. Tons of Courses from UC Irvine
+- A series of lectures in Honour of the 90th Birthday of Freeman Dyson, organized by Institute of Advances Studies, Nanyang Technological University, Singapore.
 
-[http://ocw.uci.edu/courses](http://ocw.uci.edu/courses)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch on YouTube**](https://www.youtube.com/playlist?list=PLWIjtByUJvctJSv4hzVeErhjdQyh9A450)
 
-1. Tons of lectures and talks on many disciplines, brought to you by International Centre for Theoretical Sciences, TIFR
+- Tons of Physics Courses by MIT OCW.
 
-[https://www.youtube.com/user/ICTStalks/featured](https://www.youtube.com/user/ICTStalks/featured)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://ocw.mit.edu/courses/physics/)
 
-1. Talks from Walter Burke Institute for Theoretical Physics, Caltech
+- Tons of Courses from UC Irvine
 
-[https://burkeinstitute.caltech.edu/workshops](https://burkeinstitute.caltech.edu/workshops)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://ocw.uci.edu/courses)
 
-1. Talks and lectures from Institute for Advanced Studies, Princeton
+- Tons of lectures and talks on many disciplines, brought to you by International Centre for Theoretical Sciences, TIFR.
 
-[http://video.ias.edu/frontpage](http://video.ias.edu/frontpage)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](https://www.youtube.com/user/ICTStalks/featured)
 
-1. Talks and Lectures by Ace Physicists on many topics in Theoretical Physics
+- Talks from Walter Burke Institute for Theoretical Physics, Caltech.
 
-[https://www.youtube.com/playlist?list=UU1jsSfjt8MPRqK254HV1i9Q](https://www.youtube.com/playlist?list=UU1jsSfjt8MPRqK254HV1i9Q)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](https://burkeinstitute.caltech.edu/workshops)
 
-1. [Talks and Lectures by Ace Physicists from the Quantum Foundations of a Classical Universe workshop](https://www.youtube.com/playlist?list=PLSTHK9u52EWY1aBSvyHCwK79xOzmZXlNX)
-2. Lectures on Conformal Field Theory (Introduction): Liouville Model by Prof. Leon Takhtajan
+- Talks and lectures from Institute for Advanced Studies, Princeton.
 
-[http://www.lektorium.tv/course/22819?id=22819](http://www.lektorium.tv/course/22819?id=22819)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://video.ias.edu/frontpage)
 
-**Edit:**
+- Talks and Lectures by Ace Physicists on many topics in Theoretical Physics.
 
-**Additional Suggestions**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch on YouTube**](https://www.youtube.com/playlist?list=UU1jsSfjt8MPRqK254HV1i9Q)
 
-1. A series of courses on modern physics at Stanford University aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginner
+- Talks and Lectures by Ace Physicists from the Quantum Foundations of a Classical Universe workshop.
 
-- Core courses:[http://theoreticalminimum.com/courses](http://theoreticalminimum.com/courses)
-- Supplementary courses : [http://theoreticalminimum.com/courses/supplemental](http://theoreticalminimum.com/courses/supplemental)
-- Archived courses: [http://theoreticalminimum.com/courses/archive](http://theoreticalminimum.com/courses/archive)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch on YouTube**](https://www.youtube.com/playlist?list=PLSTHK9u52EWY1aBSvyHCwK79xOzmZXlNX)
 
-1. Strange video format, but has 100&#39;s of hours of Physics, High Energy Physics, Mathematics, Energy System Physics, Condensed Matter Physics
+- Lectures on Conformal Field Theory (Introduction): Liouville Model by Prof. Leon Takhtajan.
 
-[http://www.ictp.tv/](http://www.ictp.tv/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://www.lektorium.tv/course/22819?id=22819)
 
-1. Oxford Solid State Physics Basics
+---
+## **Additional Suggestions**
 
-[https://podcasts.ox.ac.uk/series/oxford-solid-state-basics](https://podcasts.ox.ac.uk/series/oxford-solid-state-basics)
+- A series of courses on modern physics at Stanford University aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginner.
 
-1. Alexander Maloney lectures on Quantum Theory, Classical Mechanics, Modern Physics, General Relativity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Core courses - 
+[**Access here**](http://theoreticalminimum.com/courses)
 
-- Quantum theory : [https://www.youtube.com/watch?v=AoJ8NGImz2A&amp;list=PLrbYZnU7vahIbplgN1YwOmpmlTh-cRJZ5](https://www.youtube.com/watch?v=AoJ8NGImz2A&amp;list=PLrbYZnU7vahIbplgN1YwOmpmlTh-cRJZ5)
-- Classical mechanics : [https://www.youtube.com/watch?v=9M1l3zx1vw0&amp;list=PLrbYZnU7vahLwGDMeVlRib\_L\_MpkOhphu](https://www.youtube.com/watch?v=9M1l3zx1vw0&amp;list=PLrbYZnU7vahLwGDMeVlRib_L_MpkOhphu)
-- Modern physics : [https://www.youtube.com/watch?v=1JM1k5ys2Ek&amp;list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U](https://www.youtube.com/watch?v=1JM1k5ys2Ek&amp;list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
-- General relativity : [https://www.youtube.com/watch?v=GdfqXyKJycM&amp;list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a](https://www.youtube.com/watch?v=GdfqXyKJycM&amp;list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supplementary courses - [**Access here**](http://theoreticalminimum.com/courses/supplemental)
 
-1. Not a video, but more of a skills building website for becoming a good theoretical physicist
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Archived courses - [**Access here**](http://theoreticalminimum.com/courses/archive)
 
-[http://www.staff.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html](http://www.staff.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html)
+- Strange video format, but has 100&#39;s of hours of Physics, High Energy Physics, Mathematics, Energy System Physics, Condensed Matter Physics.
 
-1. 35 Videos on various topics QFT, Gauge Theory, String Theory, Astroseismology, others
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Access here**](http://www.ictp.tv/)
 
-[https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
+- Oxford Solid State Physics Basics
 
-**Lighter Side -- Less Technical**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch podcasts here**](https://podcasts.ox.ac.uk/series/oxford-solid-state-basics)
 
-1. Short Demo Video of visualizing gravity warping space-time
+- Alexander Maloney lectures on Quantum Theory, Classical Mechanics, Modern Physics, General Relativity.
 
-[https://www.youtube.com/watch?v=jlTVIMOix3I](https://www.youtube.com/watch?v=jlTVIMOix3I)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Quantum theory**](https://www.youtube.com/watch?v=AoJ8NGImz2A&amp;list=PLrbYZnU7vahIbplgN1YwOmpmlTh-cRJZ5)
 
-1. The physics of helicopters via multiple videos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Classical mechanics**](https://www.youtube.com/watch?v=9M1l3zx1vw0&amp;list=PLrbYZnU7vahLwGDMeVlRib_L_MpkOhphu)
 
-[https://www.youtube.com/watch?v=Cg1CPmtZL4c&amp;amp;list=PL6CECC2E56B68A2C3&amp;amp;index=1&amp;amp;feature=plpp\_video](https://www.youtube.com/watch?v=Cg1CPmtZL4c&amp;amp;list=PL6CECC2E56B68A2C3&amp;amp;index=1&amp;amp;feature=plpp_video)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Modern physics**](https://www.youtube.com/watch?v=1JM1k5ys2Ek&amp;list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
 
-1. 60 Symbols - wide variety of physics and general astronomy topics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**General relativity**](https://www.youtube.com/watch?v=GdfqXyKJycM&amp;list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a)
 
-[https://www.youtube.com/user/sixtysymbols](https://www.youtube.com/user/sixtysymbols)
+- Not a video, but more of a skills building website for becoming a good theoretical physicist
 
-1. When the Apple Drops - Mostly quantum mechanics but other topics in physics are covered
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Primary Mathematics**](http://www.staff.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html)
 
-[https://www.youtube.com/user/whentheappledrops/videos](https://www.youtube.com/user/whentheappledrops/videos)
+- 35 Videos on various topics QFT, Gauge Theory, String Theory, Astroseismology, and others.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch on Youtube**](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)- Not a video, but more of a skills building website for becoming a good theoretical physicist
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Primary Mathematics**](http://www.staff.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html)
+
+- 35 Videos on various topics QFT, Gauge Theory, String Theory, Astroseismology, and others.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**Watch on Youtube**](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
