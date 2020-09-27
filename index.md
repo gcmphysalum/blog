@@ -14,7 +14,6 @@ last_modified_date: 2020-09-26T01:00:00+0000
 ### Online Resources
 &nbsp;&nbsp;&nbsp;&nbsp;
 The following are some physics online courses that could be found useful at undergraduate and postgraduate levels. The video lectures would constitute only a small portion of a course. One should download tutorials, lecture notes, problem sets, and exam papers. Unfortunately, many universities in India do not cultivate this culture of seeking knowledge elsewhere.
-For example, there is no tutorials or tutorial section for the undergraduate physics program at Calicut university. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 These video lectures are so awesome that you can merely sit and listen to these lectures and grasp a great deal of things, but it will only be fruitful by doing related problems and exam papers as seriously as one would do in a course. Below, we have tried to organize them according to difficulty levels.
