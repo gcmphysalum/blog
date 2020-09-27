@@ -436,7 +436,7 @@ Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-05-quantum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on YouTube**](https://www.youtube.com/playlist?list=PLFE2BDD4125CF9866)
 
-- Lectures on Relativistic Quantum Mechanics by Prof. Apoorva D. Patel, IISc Bangalore.
+- Lectures on Relativistic Quantum Mechanics by Prof. Apoorva D. Patel, IISc Bangalore. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lecture - [**Watch here**](https://nptel.ac.in/courses/115/108/115108074/#watch)
@@ -902,3 +902,4 @@ Archived courses - [**Access here**](http://theoreticalminimum.com/courses/archi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
+
