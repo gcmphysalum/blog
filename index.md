@@ -17,9 +17,9 @@ The following are some physics online courses that could be found useful at unde
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 These video lectures are so awesome that you can merely sit and listen to these lectures and grasp a great deal of things, but it will only be fruitful by doing related problems and exam papers as seriously as one would do in a course. Below, we have tried to organize them according to difficulty levels.
-- [**For Precollege Students**]()
-- [**For Undergraduates**]()
-- [**For Postgraduates**]()
+- [**For Precollege Students**](https://gcmphysalum.github.io/posts/precollge-materials)
+- [**For Undergraduates**](https://gcmphysalum.github.io/posts/ug-materials)
+- [**For Postgraduates**](https://gcmphysalum.github.io/posts/pg-materials)
 ---
 ### Text Books
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,14 +28,14 @@ Deep and clear understanding about a subject cannot be gulped down from that-one
 &nbsp;&nbsp;&nbsp;&nbsp;
 We have listed a few text books - based on the undergraduate & postgraduate syllabus, as well as supplimentary text books which will help the more curious ones among you to read beyond and aboves the syllabus.
 
-- [**List of Standard Text Books - based on BSc Syllabus**]()
-- [**List of Standard Text Books - based on MSc Syllabus**]()
-- [**List of Supplementary Text Books - by Research Area**]()
+- [**List of Standard Text Books - based on BSc Syllabus**](https://gcmphysalum.github.io/posts/text-books/)
+- [**List of Standard Text Books - based on MSc Syllabus**](https://gcmphysalum.github.io/posts/text-books/)
+- [**List of Supplementary Text Books - by Research Area**](https://gcmphysalum.github.io/posts/text-books)
 ---
 ### Active Research Areas and Research Groups
 &nbsp;&nbsp;&nbsp;&nbsp;
 In order to develop your taste and to recognize your true interests, it is important to become familiar with the current and active research areas. Furthermore, you should be familiar with the groups/institutes where these activities are taking place. Interested students can also use the information given in this section to directly approach these faculties/groups for summer projects or laboratory visits.
-- [**List of Research Groups (Institute) - by Research Area**]()
+- [**List of Research Groups (Institute) - by Research Area**](https://gcmphysalum.github.io/posts/research-groups)
 
 ---
 
