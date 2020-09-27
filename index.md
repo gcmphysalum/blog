@@ -20,7 +20,7 @@ These video lectures are so awesome that you can merely sit and listen to these 
 - [**For Precollege Students**]()
 - [**For Undergraduates**]()
 - [**For Postgraduates**]()
-
+---
 ### Text Books
 &nbsp;&nbsp;&nbsp;&nbsp;
 Deep and clear understanding about a subject cannot be gulped down from that-one-book-mentioned-in-the-university-syllabus alone. As a matter of fact, text book revisions are a Herculean tasks at most of the universities and may take decades. It is important to read good text books with updated information. Also, we need to deconstruct the idea of monogamy towards text books. For a better understanding, you would want to read different books on that topic. This methodology gives you greater insight towards the subject as well as helps you to approach the text books more objectively.
@@ -31,22 +31,11 @@ We have listed a few text books - based on the undergraduate & postgraduate syll
 - [**List of Standard Text Books - based on BSc Syllabus**]()
 - [**List of Standard Text Books - based on MSc Syllabus**]()
 - [**List of Supplementary Text Books - by Research Area**]()
-
+---
 ### Active Research Areas and Research Groups
 &nbsp;&nbsp;&nbsp;&nbsp;
 In order to develop your taste and to recognize your true interests, it is important to become familiar with the current and active research areas. Furthermore, you should be familiar with the groups/institutes where these activities are taking place. Interested students can also use the information given in this section to directly approach these faculties/groups for summer projects or laboratory visits.
 - [**List of Research Groups (Institute) - by Research Area**]()
 
 ---
-
-### About the GCM Physics Alumni Resource Hub
-*In this project, we intend to provide a platform to accumulate many resources and information that we thought would have been better if they were available to us before we were preparing ourselves for a research career in physics. Neverthless, they have turned out to be highly useful for us. We are using this platform to provide a single stop to find the otherwise scattered online learning resources. This initiative is carried out by the Alumni and Faculties of the Department of Physics, Government College, Madappally, Vadakara.*
-
-### Disclaimer
-*The selection of the content is based on personal experience of the contributors from GCM Physics Alumni. We do not claim the content to be exhaustive or sufficient. It is upto the interested student to assess the quality of the content for themselves and reap the maximum out of this opportunity.*
-
-### Contact Us
-GCM Physics Alumni Resource Hub
-
-email: gcmphysalum[at]gmail.com
 
