@@ -2,9 +2,6 @@
 layout: default
 title: About
 nav_order: 7
-description: "GCM Physics Alumni Resource Hub"
-permalink: /
-last_modified_date: 2020-09-26T01:00:00+0000
 ---
 # About
 
