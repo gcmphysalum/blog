@@ -3,7 +3,7 @@ layout: default
 title: UG materials
 nav_order: 3
 ---
-# **Supplimentary Resources for a Undergraduate Student**
+# Supplimentary Resources for a Undergraduate Student
 {: .no_toc }
 
 ## Table of contents
@@ -155,7 +155,7 @@ Lectures - [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLp0hSY2
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [**Watch on Youtube**](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
 
-### **Lighter Side -- Less Technical**
+## **Lighter Side -- Less Technical**
 
 - **Short demonstration** of gravity warping space-time.
 [**Watch on Youtube**](https://www.youtube.com/watch?v=jlTVIMOix3I)
@@ -168,3 +168,9 @@ Lectures - [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLp0hSY2
 
 - **When the Apple Drops** - Quantum mechanics but other topics in physics.
 [**Watch on Youtube**](https://www.youtube.com/user/whentheappledrops/videos)
+
+
+
+
+
+
