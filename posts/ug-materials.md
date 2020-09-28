@@ -3,7 +3,7 @@ layout: default
 title: UG materials
 nav_order: 3
 ---
-# Supplimentary Resources for a Undergraduate Student
+# Undergraduate Resources
 {: .no_toc }
 
 ## Table of contents
@@ -16,70 +16,48 @@ nav_order: 3
 This section lists topicwise online resources that can be found useful by an undergraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
 
 ---
-## **Classical Mechanics**
+### Classical Mechanics
 
 - Prof. Walter Lewin&#39;s lectures on Classical Mechanics, as taught in 1999.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lectures - [**Watch here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/video-lectures)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lecture Notes - [**Access here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/lecture-notes/) 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Assignments - [**Access here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/assignments/)
+    - Lectures - [**Watch here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/video-lectures)
+    - Lecture Notes - [**Access here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/lecture-notes/) 
+    - Assignments - [**Access here**](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/assignments/)
 
 - Lecture series on Classical Physics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lectures - [**Watch here**](https://nptel.ac.in/courses/122/106/122106027/#watch)
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Assignments - [**Access here**](https://nptel.ac.in/courses/122/106/122106027/#downloads)
+    - Lectures - [**Watch here**](https://nptel.ac.in/courses/122/106/122106027/#watch)
+    - Assignments - [**Access here**](https://nptel.ac.in/courses/122/106/122106027/#downloads)
 
 ---
-## **Electrodynamics**
+### Electrodynamics
 
 - Prof. Walter Lewin&#39;s course on Electricity and Magnetism.
 [**Watch here**](http://videolectures.net/mit802s02_electricity_magnetism/)
 
 ---
-## **Statistical Mechanics**
+### Statistical Mechanics
 
 - Lecture notes on Statistical Physics by David Tong, University of Cambridge. [**Access here**](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf)
 
 - Statistical Mechanics I: Statistical Mechanics of Particles by Prof. Mehran Kardar; brought to you by MIT OCW.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lectures - [**Watch MIT video lectures**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lecture notes - [**Access here**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/lecture-notes)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/assignments)
+    - Lectures - [**Watch MIT video lectures**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures)
+    - Lecture notes - [**Access here**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/lecture-notes)
+    - Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/assignments)
 
 ---
 ## **Quantum Mechanics**
 
 - Lectures on Quantum Physics (I) by Prof. Allan Adams, brought to you by MIT OCW. This course covers the experimental basis of quantum physics. It introduces wave mechanics, Schrödinger&#39;s equation in a single dimension, and Schrödinger&#39;s equation in three dimensions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lectures - [**Watch MIT video lectures**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lecture notes - [**Access here**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-notes)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/assignments)
+    - Lectures - [**Watch MIT video lectures**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos)
+    - Lecture notes - [**Access here**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-notes)
+    - Assignments - [**Access here**](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/assignments)
 
 - Lectures on Quantum Physics by Prof. V. Balakrishnan, Dept. of Physics, IIT Madras.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lectures - [**Watch on NPTEL**](https://nptel.ac.in/courses/122/106/122106034/#video)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Assignments - [**Access here**](https://nptel.ac.in/courses/122/106/122106034/#downloads)
+    - Lectures - [**Watch on NPTEL**](https://nptel.ac.in/courses/122/106/122106034/#video)
+    - Assignments - [**Access here**](https://nptel.ac.in/courses/122/106/122106034/#downloads)
 
 ---
 ## **Electronics**
@@ -101,10 +79,15 @@ Problems - [**Analogue electronics**](http://www.nesoacademy.org/electronics#)
 ---
 ## **Condensed Matter Physics**
 
-- Sandro Scandolo lectures
+- Lectures on Solid State Physics by Prof. Sandro Scandolo
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lectures - [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLp0hSY2uBeP_IL61cNFAjOvdd4qXVujlM)
+- Lectures on solid state physics by Prof. David Tong
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lecture notes and problem sets - [**Access here**](http://www.damtp.cam.ac.uk/user/tong/solidstate.html)
 
 
 ---
@@ -156,6 +139,7 @@ Lectures - [**Watch on Youtube**](https://www.youtube.com/playlist?list=PLp0hSY2
 [**Watch on Youtube**](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
 
 ## **Lighter Side -- Less Technical**
+- Lectures by Prof. Richard Feynman on The Character of Physical Law.
 
 - **Short demonstration** of gravity warping space-time.
 [**Watch on Youtube**](https://www.youtube.com/watch?v=jlTVIMOix3I)
