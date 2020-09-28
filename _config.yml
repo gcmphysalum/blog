@@ -21,9 +21,7 @@
 title: Resource Hub
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+In this project, we intend to provide a platform to accumulate many resources and information that we thought would have been better if they were available to us before we were preparing ourselves for a research career in physics. Neverthless, they have turned out to be highly useful for us. We are using this platform to provide a single stop to find the otherwise scattered online learning resources. This initiative is carried out by the Alumni and Faculties of the Department of Physics, Government College, Madappally, Vadakara.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gcmphysalum.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
