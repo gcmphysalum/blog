@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Undergraduate
-parent: Resource Materials
+parent: Online Resources
 nav_order: 4
 ---
 # Undergraduate Resources

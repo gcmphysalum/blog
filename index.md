@@ -3,12 +3,12 @@ layout: default
 title: Home
 nav_order: 1
 description: "Physics Resource Hub"
-permalink: 
+permalink:
 last_modified_date: 2020-09-26T01:00:00+0000
 ---
 # Physics Resource Hub
 Govt. College Madappally
-{: .fs-6 }
+{: .fs-4 }
 ---
 
 *Standing at a juncture finishing your graduation/post-graduation and thinking about opting a career in scientific research demands a thoughtful and an informed decision on the WHY, WHAT and HOW of preparing yourself for a successful career. Why should you be pursuing research is a question that needs to be answered by yourself based on your interest and a number of parameters which only you could weigh. Here, we are trying to help with the other two questions by accumulating a number of resources that we believe to be helpful to you as well as guiding you towards a few active research areas and groups which you can check out.*

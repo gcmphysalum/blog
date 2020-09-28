@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Resource Materials
+title: Online Resources
 nav_order: 2
 has_children: true
-permalink: /resource-materials/introduction
+permalink: /online-resources/introduction
 ---
 # Resource Materials

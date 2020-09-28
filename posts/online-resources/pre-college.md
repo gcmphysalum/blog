@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pre-college
-parent: Resource Materials
+parent: Online Resources
 nav_order: 2
 ---
 # Pre-College Resources
@@ -20,6 +20,7 @@ This section lists video lectures and materials for pre-college students who are
 ---
 
 ## Video Lectures
+
 - Fundamentals of Physics (I) - Prof. Ramamurti Shankar (Yale University).
 [Watch on Youtube](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B)
 
@@ -40,6 +41,8 @@ Supplementary material: Fundamentals of Physics, Yale Press 2016 (Vol II)
 
 - A series of short video presentations on different topics of Physics by Khan Academy.
 [Watch on Youtube](https://www.youtube.com/playlist?list=PLAD5B880806EBE0A4)
+
+---
 
 ## Home Experiments
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Postgraduate
-parent: Resource Materials
+parent: Online Resources
 nav_order: 5
 ---
 
