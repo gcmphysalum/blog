@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Physics Resource Hub"
-permalink: /
+permalink: 
 last_modified_date: 2020-09-26T01:00:00+0000
 ---
 # Physics Resource Hub
