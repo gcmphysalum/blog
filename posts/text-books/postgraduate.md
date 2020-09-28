@@ -56,7 +56,3 @@ nav_order: 9
 - An Introductin to Quantum Field Theory by Michael E. Peskin, Daniel V. Schroeder
 
 ---
-
-## Foundations of Quantum Mechanics
-
----
