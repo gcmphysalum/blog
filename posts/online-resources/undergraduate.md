@@ -17,12 +17,10 @@ nav_order: 4
 1. TOC
 {:toc}
 
----
-
 This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
 
-
 ---
+
 ## Classical Mechanic
 
 - Prof. Walter Lewin&#39;s lectures on Classical Mechanics, as taught in 1999.
