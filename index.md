@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "Physics Resource Hub"
-permalink:
 last_modified_date: 2020-09-26T01:00:00+0000
 ---
 # Physics Resource Hub
@@ -32,7 +31,7 @@ Deep and clear understanding about a subject cannot be gulped down from that-one
 &nbsp;&nbsp;&nbsp;&nbsp;
 We have listed a few text books - based on the undergraduate & postgraduate syllabus, as well as supplimentary text books which will help the more curious ones among you to read beyond and aboves the syllabus.
 
-- [List of Standard Text Books - based on BSc Syllabus](https://gcmphysalum.github.io/posts/text-books/pre-college.html))
+- [List of Standard Text Books - based on BSc Syllabus](https://gcmphysalum.github.io/posts/text-books/pre-college.html)
 - [List of Standard Text Books - based on MSc Syllabus](https://gcmphysalum.github.io/posts/text-books/undergraduate.html)
 - [List of Supplementary Text Books - by Research Area](https://gcmphysalum.github.io/posts/text-books/postgraduate.html)
 
