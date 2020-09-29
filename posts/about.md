@@ -12,8 +12,8 @@ In this project, we intend to provide a platform to accumulate many resources an
 
 ---
 ## Disclaimer
-The selection of the content is based on personal experience of the contributors from GCM Physics Alumni. We do not claim the content to be exhaustive or sufficient. It is upto the interested student to assess the quality of the content for themselves and reap the maximum out of this opportunity.
+The selection of the content is based on the personal experiences of the contributors who belong to the Physics Alumni of Govt. College Madappally, Vadakara. We do not claim the content to be exhaustive or sufficient. It is upto the interested student to assess the quality of the content for themselves and reap the maximum benefit out of this opportunity.
 
 ---
 ## Contact Us
-email: gcmphysalum[at]gmail.com
+Email: gcmphysalum [AT] gmail.com
