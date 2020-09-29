@@ -4,14 +4,7 @@ title: Undergraduate
 parent: Online Resources
 nav_order: 4
 ---
-# Undergraduate Resources
----
 
-This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
-
-
----
-## Classical Mechanics
 
 {: .fs-4 .fw-300 }
 
@@ -23,6 +16,14 @@ This section lists topicwise online resources that can be found useful by an pos
 TOC
 {:toc}
 
+# Undergraduate Resources
+---
+
+This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
+
+
+---
+## Classical Mechanic
 
 - Prof. Walter Lewin&#39;s lectures on Classical Mechanics, as taught in 1999.
     - Lectures - [Watch here](https://ocw.aprende.org/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/video-lectures)
