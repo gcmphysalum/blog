@@ -5,11 +5,10 @@ parent: Online Resources
 nav_order: 4
 ---
 
-{: .fs-4 .fw-300 }
-
 # Undergraduate Resources
 
 This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
+{: .fs-4 .fw-300 }
 
 {: .no_toc }
 
