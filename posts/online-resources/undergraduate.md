@@ -7,7 +7,6 @@ nav_order: 4
 
 # Undergraduate Resources
 
-This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
 {: .fs-4 .fw-300 }
 
 {: .no_toc }
@@ -17,6 +16,10 @@ This section lists topicwise online resources that can be found useful by an pos
 
 1. TOC
 {:toc}
+
+---
+
+This section lists topic wise online resources that can be found useful by an undergraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
 
 ---
 
@@ -35,7 +38,10 @@ This section lists topicwise online resources that can be found useful by an pos
 ## Electrodynamics
 
 - Prof. Walter Lewin&#39;s course on Electricity and Magnetism.
-[Watch here](http://videolectures.net/mit802s02_electricity_magnetism/)
+    - Lectures - [Watch here](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+    -  Assignments - [Access here](http://mit.sustech.edu/OcwWeb/Physics/8-02Electricity-and-MagnetismSpring2002/Assignments/index.htm)
+- Lecture notes on Electromagnetism by Prof. David Tong [Access here](http://www.damtp.cam.ac.uk/user/tong/em.html)
+
 
 ---
 ## Statistical Mechanics
@@ -84,46 +90,13 @@ Lectures - [Watch on Youtube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lecture notes and problem sets - [Access here](http://www.damtp.cam.ac.uk/user/tong/solidstate.html)
+- Lectures on Solid State Physics Basics by Prof. Steven H. Simon of Oxford University. [Watch Oxford Basic Physics Podcasts](https://podcasts.ox.ac.uk/series/oxford-solid-state-basics)
 
 
----
-## Additional Suggestions
-
-- A series of courses on modern physics at Stanford University aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginner
-  - [Theoretical Minimum - Core courses](http://theoreticalminimum.com/courses)
-  - [Theoretical Minimum - Supplementary courses](http://theoreticalminimum.com/courses/supplemental)
-  - [Theoretical Minimum - Archived courses](http://theoreticalminimum.com/courses/archive)
-
-- 100&#39;s of hours of Physics, High Energy Physics, Mathematics, Energy System Physics, Condensed Matter Physics.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[ICTP - TV](http://www.ictp.tv/)
-
-- Oxford Solid State Physics Basics.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Watch Oxford Basic Physics Podcasts](https://podcasts.ox.ac.uk/series/oxford-solid-state-basics)
-
-- Alexander Maloney lectures on Quantum Theory, Classical Mechanics, Modern Physics, General Relativity.
-  - [Quantum theory](https://www.youtube.com/watch?v=AoJ8NGImz2A&amp;list=PLrbYZnU7vahIbplgN1YwOmpmlTh-cRJZ5)
-  - [Classical mechanics](https://www.youtube.com/watch?v=9M1l3zx1vw0&amp;list=PLrbYZnU7vahLwGDMeVlRib_L_MpkOhphu)
-  - [Modern physics](https://www.youtube.com/watch?v=1JM1k5ys2Ek&amp;list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
-  - [General relativity](https://www.youtube.com/watch?v=GdfqXyKJycM&amp;list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a)
-
-- Not a video, but more of a skills building website for becoming a good theoretical physicist
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Primary Mathematics](http://www.staff.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html)
-
-- 35 Videos on various topics QFT, Gauge Theory, String Theory, Astroseismology, and others.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Watch on Youtube](https://www.youtube.com/watch?v=ts62t3ItdAM&amp;feature=youtu.be&amp;list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
-
----
 
 ## Lighter Side -- Less Technical
-- Lectures by Prof. Richard Feynman on The Character of Physical Law.
+- Feynman lectures on physics by Prof. Richard Feynman.  [Access here](https://www.feynmanlectures.caltech.edu/)
+- Richard Feynman Messenger Lectures at Cornell The Character of Physical Law. [Watch on Youtube](https://www.youtube.com/watch?v=-kFOXP026eE&list=PLS3_1JNX8dEh5YcO-Y05stU0u_T9nqIlF )
 
 - Short demonstration of gravity warping space-time.
 [Watch on Youtube](https://www.youtube.com/watch?v=jlTVIMOix3I)
