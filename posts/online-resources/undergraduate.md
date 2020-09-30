@@ -4,11 +4,7 @@ title: Undergraduate
 parent: Online Resources
 nav_order: 4
 ---
-
 # Undergraduate Resources
-
-{: .fs-4 .fw-300 }
-
 {: .no_toc }
 
 ## Table of contents
