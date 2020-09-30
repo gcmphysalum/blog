@@ -5,8 +5,6 @@ parent: Online Resources
 nav_order: 2
 ---
 # Pre-College Resources
----
-
 {: .no_toc }
 
 ## Table of contents
