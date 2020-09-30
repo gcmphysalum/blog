@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre-college
+title: Pre-College
 parent: Online Resources
 nav_order: 2
 ---
