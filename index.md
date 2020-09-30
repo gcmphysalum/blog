@@ -45,11 +45,9 @@ In order to develop your taste and to recognize your true interests, it is impor
 
 ---
 
-
-
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> *"How wonderful that we have met with a paradox. Now we have some hope of making progress.""*
 > 
-> Niels Bohr
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***- Niels Bohr***
 
 <iframe src="https://giphy.com/embed/3ohuAxV0DfcLTxVh6w" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-2-3ohuAxV0DfcLTxVh6w"></a></p>
 
