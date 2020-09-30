@@ -7,8 +7,6 @@ nav_order: 5
 
 # Postgraduate Resources
 ---
-This section lists topicwise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
-{: .fs-4 .fw-300 }
 
 {: .no_toc }
 
@@ -19,6 +17,10 @@ This section lists topicwise online resources that can be found useful by an pos
 {:toc}
 
 ---
+
+This section lists topic wise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
+
+___
 
 ## Classical Mechanics
 
@@ -74,10 +76,6 @@ or on
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Watch on YouTube](https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849)
 
-- Lectures on Quantum Mechanics by Prof. Namik Kemal Pak, Middle East Technical University Department of Physics. Topics covered by him include systems of identical particles and second quantization, semi-classical and quantum theory of radiation, scattering theory, relativistic single-particle equations, Dirac equation and central potential problems.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Watch on YouTube](https://www.youtube.com/playlist?list=PLF5e5qMc7fOQCAD4-C1qMePr-I6lREkTW)
 
 - Lectures on Quantum Entanglements by Prof. Leonard Susskind, Stanford University.
 
@@ -279,10 +277,7 @@ or on
     - Lecture notes - [Access here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/lecture-notes)
     - Assignments - [Access here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/assignments)
 
-- A course on Information and Entropy as taught by Prof. Paul Penfield and Prof. Seth Lloyd, brought to you by MIT OCW.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Watch MIT video lecture](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/videos-homework-and-readings/)
 
 - Lectures by Prof. S. Srinivasan on Digital VLSI System Design, Department of Electrical Engineering, IIT Madras.
 
