@@ -21,6 +21,7 @@ nav_order: 9
 - Mathematical Physics by Sadri Hassani
 - Mathematics for Physicists by by Philippe Dennery, André Krzywicki
 - Mathematical Methods for Physicists: A Comprehensive Guide by George B. Arfken, Hans J. Weber, Frank E. Harris
+
 ---
 
 ## Classical Mechanics
