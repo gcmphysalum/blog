@@ -6,8 +6,6 @@ nav_order: 2
 ---
 # Pre-College Resources
 ---
-This section lists video lectures and materials for pre-college students who are motivated towards higher studies in physics. The contents are helpful for a better understanding of basic topics in physics. They will also be of  interest to a general enthusiastic learner as well.
-{: .fs-4 .fw-300 }
 
 {: .no_toc }
 
@@ -16,6 +14,12 @@ This section lists video lectures and materials for pre-college students who are
 
 1. TOC
 {:toc}
+
+---
+
+## Introduction
+
+This section lists video lectures and materials for pre-college students who are motivated towards higher studies in physics. The contents are helpful for a better understanding of basic topics in physics. They will also be of  interest to a general enthusiastic learner as well.
 
 ---
 
@@ -30,6 +34,7 @@ This section lists video lectures and materials for pre-college students who are
 [Watch on Youtube](https://www.youtube.com/playlist?list=PLD07B2225BB40E582)
   - Topics: Electricity, Magnetism, Optics and Quantum mechanics
   - Supplementary material: Fundamentals of Physics, Yale Press 2016 (Vol II)
+- 11 th class physics - lecture series by Prof. V. Balakrishnan (Mechanics, Heat, Oscillations and Waves). [Watch on Youtube](https://www.youtube.com/watch?v=YbMn153a35U&list=PLq-Gm0yRYwThKeMSP_ii5klqDYvta4HQI)
 
 - A series of short video presentations on different topics of Physics by Khan Academy.
 [Watch on Youtube](https://www.youtube.com/playlist?list=PLAD5B880806EBE0A4)
