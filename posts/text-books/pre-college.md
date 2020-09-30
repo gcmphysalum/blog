@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre-college
+title: Pre-College
 parent: Text Books
 nav_order: 7
 ---
