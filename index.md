@@ -45,7 +45,9 @@ In order to develop your taste and to recognize your true interests, it is impor
 
 ---
 
-*"How wonderful that we have met with a paradox. Now we have some hope of making progress. - Niels Bohr"*
+*"How wonderful that we have met with a paradox. Now we have some hope of making progress."*
+
+***- Niels Bohr***
 
 
 
