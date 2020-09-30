@@ -17,8 +17,6 @@ nav_order: 2
 
 ---
 
-## Introduction
-
 This section lists video lectures and materials for pre-college students who are motivated towards higher studies in physics. The contents are helpful for a better understanding of basic topics in physics. They will also be of  interest to a general enthusiastic learner as well.
 
 ---
