@@ -5,7 +5,7 @@ parent: Text Books
 nav_order: 7
 ---
 
-# Pre-college Text Books
+# Pre-College Text Books
 {: .no_toc }
 
 ## Table of contents
@@ -15,4 +15,5 @@ nav_order: 7
 {:toc}
 
 ---
-Update soon. 
+
+To be updated soon...
