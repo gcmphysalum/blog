@@ -15,13 +15,18 @@ nav_order: 8
 {:toc}
 
 ---
+
 ## Mathematical Physics
 - Mathematical Methods in the Physical Sciences by Mary L. Boas
+- Mathematical Methods For Students of Physics and Related Fields by Sadri Hassani
 - Introduction to Linear Algebra by Gilbert Strang
 - A Student's Guide to Vectors and Tensors by Daniel A. Fleisch
+- A Student's Guide to Fourier Transforms: With Applications in Physics and Engineering by J. F. James
+- A Student's Guide to Data and Error Analysis by Herman Berendsen
+- Basic Training in Mathematics by Ramamurti Shankar
 - Calculus and Analytical Geometry by George B. Thomas, Ross L. Finney
-- Elements of Group Theory for Physicists by A. W. Joshi
-- Mathematical Physics: Applications and Problems by V Balakrishnan
+- Mathematical Methods for Physics and Engineering by by Ken F. Riley, Mike P. Hobson, Stephen J. Bence
+- Essential Mathematical Methods for Physicists by George B. Arfken and Hans J. Weber
 
 ---
 
@@ -48,7 +53,8 @@ nav_order: 8
 ---
 
 ## Electronics
-- Electronic Devices and Circuits by David A. Bell.
+- Electronic Devices and Circuit Theory by Louis Nashelsky and Robert Boylestad
+- Electronic Devices and Circuits by David A. Bell
 
 ---
 
@@ -56,10 +62,12 @@ nav_order: 8
 - Statistical Physics: Berkeley Physics Course Vol.5 by F Reif
 - Thermodynamics and An Introduction to Thermostatistics by Herbert B Callen
 - Thermodynamics by Enrico Fermi
+- Introduction to Thermal Physics by Daniel V. Schroeder
 
 ---
 
 ## Condensed Matter Physics
+- Solid State Physics: An Introduction by Philip Hofmann
 - Solid State Physics by Hilary D. Brewster
 - Introduction to Solid State Physics by Charles Kittel
 
