@@ -14,5 +14,3 @@ Deep and clear understanding about a subject cannot be gulped down from that-one
 <p style="text-align:justify">
 We have listed a few text books - based on the undergraduate & postgraduate syllabus, as well as given supplementary text books which will help the more curious ones among you to read beyond and above the syllabus.
 </p>
-
----
