@@ -15,7 +15,9 @@ nav_order: 5
 
 ---
 
+<p style="text-align:justify">
 This section lists topic wise online resources that can be found useful by an postgraduate student. Most of the resources cover an entire course including videos, lecture notes and assignments. The video lectures constitute only a small portion of a course. One should download related tutorials, lecture notes, problem sets, and exam papers and work out those as they do in the classroom to gather the full benefit of these vast resources.
+</p>
 
 ___
 
@@ -649,7 +651,7 @@ Assignments - [Access here](https://ocw.mit.edu/courses/physics/8-851-effective-
 
 ---
 
-## Some Useful Links
+## and some more...
 
 
 - There are tons of lectures at Perimeter Institute&#39;s Recorded Seminar Archive (PIRSA). Tip: Go to section &quot;4. Collections&quot; Select: Year. Select: Conference/School or Course. Then click on: View.
