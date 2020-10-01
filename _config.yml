@@ -32,6 +32,11 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: UA-179408686-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
