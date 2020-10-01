@@ -31,7 +31,7 @@ nav_order: 8
 ---
 
 ## Classical Mechanics
-- An Introduction to Mechanics by David Kleppner, Robert Kolenkow
+- An Introduction to Mechanics by Daniel Kleppner, Robert Kolenkow
 - Mechanics: Berkeley Physics Course. vol. 1. Charles Kittel, Walter D. Knight, and Malvin A. Ruderman.
 - A Student's Guide to Analytical Mechanics by John L. Bohn
 - Waves: Berkeley Physics Course Volume 3 by Franks Crawford
