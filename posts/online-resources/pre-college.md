@@ -50,4 +50,30 @@ This section lists video lectures and materials for pre-college students who are
 - Arvind Gupta Toys - Toys and simple scientific experiments using readily available materials.
 [Visit website](http://www.arvindguptatoys.com/toys.html)
 
+- [Physics at Home Archive](https://www.compadre.org/informal/features/featureArchive.cfm?Type=HomePhysics) from APS Physics, Physics to Go online magazine.
+
+## Instruction Materials
+
+- [ComPADRE Digital Library](https://www.compadre.org/) - Collection of Physics Teaching and Learning Resources by AAPT.
+
+- [PhysicsLAB](http://dev.physicslab.org/Default.aspx) by Catharine H. Colwell.
+
+- [Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html) Exploration Environment for concepts in Physics.
+
+- [Workshop Tutorials for Physics](http://www.physics.usyd.edu.au/super/physics_tut/contents.html)
+
+- [quant.bio](http://quant.bio/index.php) -  for both basic and advanced lessons on applying mathematics to biology.
+
+- [Live Photo Physics Project](https://www.rit.edu/cos/livephoto/) - Hosted by the Physics Department at Rochester Institute of Technology.
+
+## Becoming a Physicist
+
+- [How to become a
+GOOD Theoretical Physicist
+](https://www.goodtheorist.science/) by Gerard 't Hooft
+
+- [Terrence Tao's Blog](https://terrytao.wordpress.com/)
+
+- [Careers in Physics](https://www.aps.org/careers/physicists/index.cfm) by APS Physics.
+
 ---
