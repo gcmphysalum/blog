@@ -11,8 +11,8 @@ Govt. College Madappally
 ---
 
 
-<p style="text-align:justify">Are you standing at a juncture finishing your graduation/postgraduation and thinking about opting a career in scientific research? If yes, this moment demands thoughtful and informed decisions on the WHY, WHAT and HOW of preparing yourself for a successful career. Why should you be pursuing research is a question that needs to be answered by yourself based on your interest and a number of parameters which only you could weigh. Here, we are trying to help with the other two questions by accumulating a number of resources that we believe to be useful to you as well as guiding you towards a few active research areas and groups which you can explore. This website is a work in progress that would see more updates in the next few days. Meanwhile we welcome feedbacks and content suggestions. Before you start, you can watch a <a href="https://youtu.be/pu7VEfCm3m8">webinar</a> (Malayalam) presented by two of our team members on how to prepare yourself towards pursuing a career in physics.
-</p>
+Are you standing at a juncture finishing your graduation/postgraduation and thinking about opting a career in scientific research? If yes, this moment demands thoughtful and informed decisions on the WHY, WHAT and HOW of preparing yourself for a successful career. Why should you be pursuing research is a question that needs to be answered by yourself based on your interest and a number of parameters which only you could weigh. Here, we are trying to help with the other two questions by accumulating a number of resources that we believe to be useful to you as well as guiding you towards a few active research areas and groups which you can explore. This website is a work in progress that would see more updates in the next few days. Meanwhile we welcome feedbacks and content suggestions. Before you start, you can watch a [webinar](https://youtu.be/pu7VEfCm3m8) (Malayalam) presented by two of our team members on how to prepare yourself towards pursuing a career in physics.
+
 
 ---
 
