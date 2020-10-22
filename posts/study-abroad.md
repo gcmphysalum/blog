@@ -5,13 +5,12 @@ nav_order: 11
 has_children: true
 permalink: posts/study-abroad
 ---
-To be updated ...
-<!--
+# Study Abroad
 
 ## Why Study Abroad?
 
 <p style="text-align:justify">
-
+To be updated ...
 </p>
 
 ---
@@ -19,14 +18,15 @@ To be updated ...
 ## How to Find Opportunities?
 
 <p style="text-align:justify">
-
+To be updated ...
 </p>
+
+---
 
 ## Scholarships
 
 <p style="text-align:justify">
-
+To be updated ...
 </p>
----
 
---> 
+---
