@@ -16,13 +16,10 @@ To be updated ...
 1. TOC
 {:toc}
 
----
 
 <p style="text-align:justify">
 This section lists ... .
 </p>
-
-___
 
 ## Europe
 
