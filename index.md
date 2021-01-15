@@ -44,7 +44,6 @@ We have listed a few text books - based on the undergraduate & postgraduate syll
 
 - [List of Standard Text Books - based on BSc Syllabus](https://gcmphysalum.github.io/posts/text-books/undergraduate.html)
 - [List of Standard Text Books - based on MSc Syllabus](https://gcmphysalum.github.io/posts/text-books/postgraduate.html)
-#- [List of Supplementary Text Books - by Research Area](https://gcmphysalum.github.io/posts/text-books/pre-college.html)
 
 ---
 
