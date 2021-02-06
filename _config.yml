@@ -69,3 +69,4 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
     - posts/study-abroad
+    - posts/text-books/pre-college.md
