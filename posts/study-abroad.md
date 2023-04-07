@@ -6,4 +6,4 @@ has_children: true
 permalink: posts/study-abroad
 ---
 
-Getting updated ...
+Work in progress.
