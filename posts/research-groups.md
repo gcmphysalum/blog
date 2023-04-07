@@ -23,7 +23,7 @@ In order to develop your taste and to recognize your true interests, it is impor
 
 - [Prof. Shiv Sethi](http://www.rri.res.in/aa_shivsethi.html), RRI, Bengaluru
 
-- [Dr. Rajeev Kumar Jain](https://iiscprofiles.irins.org/profile/66327), IISc, Bengaluru
+- [Dr. Rajeev Kumar Jain](https://sites.google.com/view/rkjain/), IISc, Bengaluru
 
 - Dr. Aseem Paranjape, IUCAA, Pune 
 
